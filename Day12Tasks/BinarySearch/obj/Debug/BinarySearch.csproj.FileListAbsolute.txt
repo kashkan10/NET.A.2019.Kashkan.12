@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day12Tasks\BinarySearch\bin\Debug\BinarySearch.dll
+C:\Users\Tanya\source\repos\Day12Tasks\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Tanya\source\repos\Day12Tasks\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day12Tasks\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day12Tasks\BinarySearch\obj\Debug\BinarySearch.dll
+C:\Users\Tanya\source\repos\Day12Tasks\BinarySearch\obj\Debug\BinarySearch.pdb

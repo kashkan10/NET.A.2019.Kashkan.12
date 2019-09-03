@@ -1,0 +1,7 @@
+C:\Users\Tanya\source\repos\Day12Tasks\ClockTimer\bin\Debug\ClockTimer.exe.config
+C:\Users\Tanya\source\repos\Day12Tasks\ClockTimer\bin\Debug\ClockTimer.exe
+C:\Users\Tanya\source\repos\Day12Tasks\ClockTimer\bin\Debug\ClockTimer.pdb
+C:\Users\Tanya\source\repos\Day12Tasks\ClockTimer\obj\Debug\ClockTimer.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day12Tasks\ClockTimer\obj\Debug\ClockTimer.exe
+C:\Users\Tanya\source\repos\Day12Tasks\ClockTimer\obj\Debug\ClockTimer.pdb
+C:\Users\Tanya\source\repos\Day12Tasks\ClockTimer\obj\Debug\ClockTimer.csprojAssemblyReference.cache

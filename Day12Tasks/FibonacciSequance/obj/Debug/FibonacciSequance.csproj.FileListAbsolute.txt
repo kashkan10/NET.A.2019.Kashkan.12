@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day12Tasks\FibonacciSequance\bin\Debug\FibonacciSequance.dll
+C:\Users\Tanya\source\repos\Day12Tasks\FibonacciSequance\bin\Debug\FibonacciSequance.pdb
+C:\Users\Tanya\source\repos\Day12Tasks\FibonacciSequance\obj\Debug\FibonacciSequance.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day12Tasks\FibonacciSequance\obj\Debug\FibonacciSequance.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day12Tasks\FibonacciSequance\obj\Debug\FibonacciSequance.dll
+C:\Users\Tanya\source\repos\Day12Tasks\FibonacciSequance\obj\Debug\FibonacciSequance.pdb
